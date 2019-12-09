@@ -2,4 +2,7 @@ index1 file edited
 
 edit 2
 
+
 edit from git 2
+edit from git 1
+
