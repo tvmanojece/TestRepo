@@ -1,12 +1,14 @@
 latest2
 
 index1 file edited
-
 edit 2
 
-
+lattest 22
 edit from git 2
 edit from git 1
 
 latest1
+
+
+lattest 1
 
