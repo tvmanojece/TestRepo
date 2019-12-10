@@ -1,18 +1,1 @@
-latest2
-
-index1 file edited
-edit 2
-
-lattest 22
-edit from git 2
-edit from git 1
-
-latest1
-
-
-<<<<<<< HEAD
-lattest 1
-
-=======
-lattest111
->>>>>>> 9bc8997cecbb07b3f0387e6d268588558dec1b62
+test11
